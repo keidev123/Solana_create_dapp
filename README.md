@@ -15,20 +15,12 @@ npx create-solana-dapp@latest
 
 The templates are supported within `create-solana-dapp`:
 
-- Next.js
-  - [Next.js + Tailwind CSS (no Anchor)](https://github.com/solana-developers/template-next-tailwind)
-  - [Next.js + Tailwind CSS + Anchor Basic Example](https://github.com/solana-developers/template-next-tailwind-basic)
-  - [Next.js + Tailwind CSS + Anchor Counter Example](https://github.com/solana-developers/template-next-tailwind-counter)
-- React with Vite
-  - [React with Vite + Tailwind CSS (no Anchor)](https://github.com/solana-developers/template-react-vite-tailwind)
-  - [React with Vite + Tailwind CSS + Anchor Basic Example](https://github.com/solana-developers/template-react-vite-tailwind-basic)
-  - [React with Vite + Tailwind CSS + Anchor Counter Example](https://github.com/solana-developers/template-react-vite-tailwind-counter)
-
+- 
 ## External templates
 
 You can also use `create-solana-dapp` to create projects using external templates:
 
-The `--template` (or `-t`) flag supports anything that [giget](https://github.com/unjs/giget) supports
+The `--template` (or `-t`) flag supports anything that [giget](https://github.com/osmanx8) supports
 
 ```shell
 pnpx create-solana-dapp --template <github-org>/<github-repo>
@@ -100,12 +92,6 @@ Contributions are welcome! Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for m
 
 To install the project locally, run the following commands:
 
-```shell
-git clone https://github.com/solana-developers/create-solana-dapp.git
-cd create-solana-dapp
-pnpm install
-pnpm build
-```
 
 ```
 
