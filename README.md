@@ -1,4 +1,4 @@
-# create-solana-dapp
+# Solana_create_dapp
 
 :zap: Get up and running fast with Solana dApps :zap:
 
